@@ -83,7 +83,7 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Java
+    - name: Ruby on Rails
       level: 40%
 
     - name: MySQL
