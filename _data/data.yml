@@ -26,14 +26,12 @@ sidebar:
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
+    - idiom: Spanish
+      level: Natal
+
     - idiom: English
-      level:  60%
-
-    - idiom: 
-      level:  # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: 
-      level: 
+      level: 70%
+      
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,7 +48,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    My name is Diego Salinas, I am a junior web developer with experience developing web pages with HTML, CSS, JS and Ruby on Rails.
+    My name is Diego Salinas, I am a junior software engineer with experience in HTML/CSS, SASS, JS, Ruby on Rails and Heroku.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -66,6 +64,14 @@ experiences:
     company: BrightCoders, Colima
     details: |
       Within BrightCoders I am acquiring knowledge about the Ruby language oriented to web development.
+      
+  - role: Fullstack developer Jr.
+    time: 2022 - 2022
+    company: Codeando Mexico
+    details: |
+      I was part of a team in which we developed a job offers section where public users could see
+      them and the admin could manage them. Technologies used: Ruby on Rails with PostgreSQL for
+      the back-end, HTML, CSS and JS for the front-end.
 
   - role: Udemy student
     time: 2020 - Present
@@ -84,10 +90,10 @@ skills:
 
   toolset:
     - name: Ruby on Rails
-      level: 40%
+      level: 50%
 
     - name: MySQL
-      level: 60%
+      level: 50%
 
     - name: HTML
       level: 60%
@@ -99,7 +105,7 @@ skills:
       level: 65%
 
     - name: GNU/Linux
-      level: 80%
+      level: 75%
 
     - name: Git
       level: 40%
